@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie_List_A2</string>
+    <string name="btn_add_record">Add Record</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="ed_data_entry_movie_name" />
+</resources>
