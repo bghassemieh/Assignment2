@@ -4,4 +4,5 @@
     <string name="btn_save">Save</string>
     <string name="btn_cancel">Cancel</string>
     <string name="ed_data_entry_movie_name" />
+    <string name="btnDelRecord">Delete Record</string>
 </resources>
