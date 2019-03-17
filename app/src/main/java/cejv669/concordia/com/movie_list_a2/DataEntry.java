@@ -8,7 +8,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.RatingBar;
 import android.widget.Toast;
+/*
 
+ */
 public class DataEntry extends AppCompatActivity {
 
     @Override
@@ -28,7 +30,6 @@ public class DataEntry extends AppCompatActivity {
                 data.putExtra("ratingBar",String.valueOf(ratingBar.getRating()));
                 setResult(RESULT_OK,data);
                 finish();
-
             }
         });
 

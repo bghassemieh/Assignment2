@@ -65,4 +65,5 @@
             android:layout_weight="0"
             android:text="@string/btn_cancel" />
     </LinearLayout>
+
 </LinearLayout>
